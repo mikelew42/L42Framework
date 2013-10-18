@@ -1,0 +1,12 @@
+.chat-room { border: 10px solid orange; }
+.chat-input-wrap, .chat-row { border: 10px solid #eee !important; padding: 0 10px; }
+.chat-stream { overflow-y: auto; max-height: 300px; border-bottom: 10px solid #888; }
+.chat-submit {float: right; background: orange; color: white; padding: 8px 13px; border-radius: 5px; font-weight: bold; cursor: pointer;}
+
+.twyg-active { outline: #00ff00 solid 2px; }
+.twyg-active:hover { outline: #00ff00 solid 4px; cursor: pointer; }
+.twyg-edit { outline: orange solid 5px; }
+.twyg-active.twyg-edit { outline: red solid 10px; }
+
+
+#wtf-man{ padding: 10px; }
